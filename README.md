@@ -19,4 +19,4 @@
 ### Exercise 3 - First Ride Around
 - Ran First_Ride_Around.ipynb
 - Tested forward, left, stop, right, backward buttons
-- ![Link to Noteboob](notebooks/First_Ride_Around.ipynb)
+- ![Link to Notebook](notebooks/First_Ride_Around.ipynb)
