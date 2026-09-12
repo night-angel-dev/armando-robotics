@@ -14,3 +14,9 @@
 - Installed GoPiGo OS
 - Connected to GoPiGo robot, connected it to network
 - Practiced Jupyter notebook basics
+
+
+### Exercise 3 - First Ride Around
+- Ran First_Ride_Around.ipynb
+- Tested forward, left, stop, right, backward buttons
+- ![Link to Noteboob](notebooks/First_Ride_Around.ipynb)
