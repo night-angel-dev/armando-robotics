@@ -20,3 +20,9 @@
 - Ran First_Ride_Around.ipynb
 - Tested forward, left, stop, right, backward buttons
 - ![Link to Notebook](notebooks/First_Ride_Around.ipynb)
+
+
+### Exersice 4 - Hardware Testing
+- Checked battery voltage, board info, and firmware
+- Ran motor and encoder tests
+- ![Link to Notebook](notebooks/Hardware_Testing.ipynb)
